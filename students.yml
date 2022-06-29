@@ -1,0 +1,15 @@
+---
+- students:
+    - name: bhumika
+      phno: 9618730590
+      address: hanmakonda
+      
+
+    - name: devender
+      phno: 8897970590
+      address: hyd
+
+
+    - name: srinu
+      phno: 9346811272
+      address: pgd   
